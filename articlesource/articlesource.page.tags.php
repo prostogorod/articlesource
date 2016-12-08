@@ -9,8 +9,8 @@ Tags=page.tpl:{PAGE_ARTICLESOURCE}
 /**
  * articlesource plugin
  *
- * @author  WebRomen
- * @copyright Copyright (c) 2016 - today: WebRomen | https://github.com/WebRomen/articlesource
+ * @author Roffun
+ * @copyright Copyright (c) 2016 - today: Roffun |  https://webcot.net/cotonti/extensions/articlesource-plugin
  * @license BSD
  */
 

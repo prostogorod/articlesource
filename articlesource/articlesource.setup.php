@@ -6,9 +6,9 @@ Name=Articlesource
 Category=performance-seo
 Description=link to the website - source of the article on the Internet
 Version=1.0.0
-Date=26.11.2016
-Author=WebRomen
-Copyright=Copyright (c) 2016 - today: WebRomen | https://github.com/WebRomen/articlesource
+Date=08.12.2016
+Author=Roffun
+Copyright=Copyright (c) 2016 - today: Roffun |  https://webcot.net/cotonti/extensions/articlesource-plugin
 Notes=BSD License
 SQL=
 Auth_guests=R
@@ -26,8 +26,8 @@ as_source=01:select:open,nofollow,golink:nofollow:
 /**
  * articlesource plugin
  *
- * @author  WebRomen
- * @copyright Copyright (c) 2016 - today: WebRomen | https://github.com/WebRomen/articlesource
+ * @author Roffun
+ * @copyright Copyright (c) 2016 - today: Roffun |  https://webcot.net/cotonti/extensions/articlesource-plugin
  * @license BSD
  */
 
