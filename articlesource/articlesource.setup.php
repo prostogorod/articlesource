@@ -8,7 +8,7 @@ Description=link to the website - source of the article on the Internet
 Version=1.0.0
 Date=08.12.2016
 Author=Roffun
-Copyright=Copyright (c) 2016 - today: Roffun |  https://webcot.net/cotonti/extensions/articlesource-plugin
+Copyright=Copyright (c) 2016 - today: Roffun | https://github.com/Roffun
 Notes=BSD License
 SQL=
 Auth_guests=R
@@ -27,7 +27,7 @@ as_source=01:select:open,nofollow,golink:nofollow:
  * articlesource plugin
  *
  * @author Roffun
- * @copyright Copyright (c) 2016 - today: Roffun |  https://webcot.net/cotonti/extensions/articlesource-plugin
+ * @copyright Copyright (c) 2016 - today: Roffun | https://github.com/Roffun
  * @license BSD
  */
 

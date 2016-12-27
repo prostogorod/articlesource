@@ -3,7 +3,7 @@
  * articlesource plugin
  *
  * @author Roffun
- * @copyright Copyright (c) 2016 - today: Roffun |  https://webcot.net/cotonti/extensions/articlesource-plugin
+ * @copyright Copyright (c) 2016 - today: Roffun | https://github.com/Roffun
  * @license BSD
  */
 defined('COT_CODE') or die('Wrong URL.');

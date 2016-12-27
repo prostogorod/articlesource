@@ -10,7 +10,7 @@ Tags=page.add.tpl:{PAGEADD_FORM_ARTICLESOURCE_URL},{PAGEADD_FORM_ARTICLESOURCE_U
  * articlesource plugin
  *
  * @author Roffun
- * @copyright Copyright (c) 2016 - today: Roffun |  https://webcot.net/cotonti/extensions/articlesource-plugin
+ * @copyright Copyright (c) 2016 - today: Roffun | https://github.com/Roffun
  * @license BSD
  */
 
